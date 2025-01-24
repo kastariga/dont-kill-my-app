@@ -1,10 +1,10 @@
 ---
 manufacturer: 
-    - oppo
+    - oppo a3x
 
 ---
 
-## Oppo F1S
+## Oppo A3X
 
 Background services are being killed (including accessibility services, which then need re-enabling) every time you turn the screen off. So far, a workaround for this is:
 
